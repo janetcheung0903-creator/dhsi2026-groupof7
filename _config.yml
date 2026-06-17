@@ -20,7 +20,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # title of site appears in banner
 title: Winter Scenes in Canada
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A Collection of Paintings by the Group of Seven
+tagline: A Collection of Landscape Paintings by the Group of Seven
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
