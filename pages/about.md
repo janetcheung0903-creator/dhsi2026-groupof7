@@ -21,10 +21,3 @@ padding: 6em
 ## Redefining the Canadian Wilderness
 
 The Group of Seven was a revolutionary collective of early 20th-century landscape artists who redefined Canadian art by breaking away from traditional European conventions. Armed with bold colours, thick brushstrokes, and an adventurous spirit, they ventured deep into the rugged terrains of Northern Ontario and the vast Canadian wilderness to capture the raw, untamed spirit of the nation. By portraying the country's unique geography through a distinctly modern lens, they succeeded in creating the first globally recognized, indigenous Canadian art movement and forged a powerful visual identity that still defines how Canada sees itself today.
-
-
-
-{% include feature/image.html objectid="group_002" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-
